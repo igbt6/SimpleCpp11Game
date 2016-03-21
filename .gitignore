@@ -1,0 +1,6 @@
+*.tlog
+*.obj
+*.ipch
+/Debug
+*.log
+Debug
